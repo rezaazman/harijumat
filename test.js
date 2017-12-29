@@ -1,3 +1,5 @@
+var array = [1,2,3,4]
+
 function abc() {
 	console.log('aku abc')
 	// ngasih komentar
