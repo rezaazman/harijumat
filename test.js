@@ -1,5 +1,6 @@
 var array = [1,2,3,4]
 ubah
+//tambah komen
 
 function abc() {
 	console.log('aku abc')
